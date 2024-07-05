@@ -1,0 +1,42 @@
+p, 
+h1{
+    color: rgba(0, 179, 255, 0.886);
+    width: 800px;
+  }
+  
+h1 {
+font-size: 100px;
+text-align: center;
+}
+
+p,
+li {
+font-size: 16px;
+line-height: 2;         /*行間距將是文字本身高度的兩倍*/
+letter-spacing: 1px;    /*設置字母間的間距*/
+
+}
+
+html {
+    background-color: #7CB2E8;
+}
+
+body {
+width: 800px;
+margin: 0 auto;
+background-color: #CFDDEB;
+padding: 20px 50px 20px 50px; /*上右下左的空白*/
+border: 5px solid black; /*5像素的黑色邊框*/
+}
+
+h1 {
+    margin: 0;
+    padding: 10px 0;
+    color: #00539f;
+    text-shadow: 5px 5px 1px gray;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
